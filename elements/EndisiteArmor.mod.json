@@ -1,0 +1,57 @@
+{
+  "_fv": 13,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "endisite_helemet",
+    "enableBody": true,
+    "textureBody": "endisite_chestplate",
+    "enableLeggings": true,
+    "textureLeggings": "titanium_leggings",
+    "enableBoots": true,
+    "textureBoots": "endisite_boots",
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "armorTextureFile": "nebesium_armor_layer_1",
+    "helmetName": "Endisite  Helmet",
+    "bodyName": "Endisite Chestplate",
+    "leggingsName": "Endisite  Leggings",
+    "bootsName": "Endisite  Boots",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "Arms L",
+    "armsModelPartR": "Arms R",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 25,
+    "damageValueHelmet": 3,
+    "damageValueBody": 9,
+    "damageValueLeggings": 8,
+    "damageValueBoots": 3,
+    "enchantability": 18,
+    "toughness": 3.0,
+    "equipSound": {
+      "value": "item.armor.equip_generic"
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:Endisiteingot"
+      }
+    ]
+  }
+}

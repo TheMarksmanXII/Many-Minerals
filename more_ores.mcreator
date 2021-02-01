@@ -1,0 +1,398 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Endisiteingot",
+      "type": "item",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "endisiteingot"
+    },
+    {
+      "name": "EndisteBlock",
+      "type": "block",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "endiste_block"
+    },
+    {
+      "name": "EndisiteIngotToBlock",
+      "type": "recipe",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "endisite_ingot_to_block"
+    },
+    {
+      "name": "EndisiteOre",
+      "type": "block",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "endisite_ore"
+    },
+    {
+      "name": "EndisiteOreToIngot",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "endisite_ore_to_ingot"
+    },
+    {
+      "name": "EndisiteOreToIngotBlastFurnace",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "endisite_ore_to_ingot_blast_furnace"
+    },
+    {
+      "name": "PowerRod",
+      "type": "item",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "power_rod"
+    },
+    {
+      "name": "PowerRodCraft",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "power_rod_craft"
+    },
+    {
+      "name": "EndisiteSword",
+      "type": "tool",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "endisite_sword"
+    },
+    {
+      "name": "EndisiteSwordCraft",
+      "type": "recipe",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "endisite_sword_craft"
+    },
+    {
+      "name": "EndisitePicaxe",
+      "type": "tool",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "endisite_picaxe"
+    },
+    {
+      "name": "EndisitePicaxeCraft",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "endisite_picaxe_craft"
+    },
+    {
+      "name": "EndisiteBlockToIngot",
+      "type": "recipe",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "endisite_block_to_ingot"
+    },
+    {
+      "name": "EndisiteAxe",
+      "type": "tool",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "endisite_axe"
+    },
+    {
+      "name": "EndisiteAxeCraft",
+      "type": "recipe",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "endisite_axe_craft"
+    },
+    {
+      "name": "EndisiteHoe",
+      "type": "tool",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "endisite_hoe"
+    },
+    {
+      "name": "EndisiteHoeCrafting",
+      "type": "recipe",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "endisite_hoe_crafting"
+    },
+    {
+      "name": "EndisiteShovel",
+      "type": "tool",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "endisite_shovel"
+    },
+    {
+      "name": "EndisiteArmor",
+      "type": "armor",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "endisite_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "EndKnight",
+      "type": "mob",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "end_knight"
+    },
+    {
+      "name": "Ruby",
+      "type": "item",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby"
+    },
+    {
+      "name": "RubyBlock",
+      "type": "block",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_block"
+    },
+    {
+      "name": "RubygemToBlock",
+      "type": "recipe",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rubygem_to_block"
+    },
+    {
+      "name": "Blocktoruby",
+      "type": "recipe",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blocktoruby"
+    },
+    {
+      "name": "RubySword",
+      "type": "tool",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_sword"
+    },
+    {
+      "name": "RubyPicaxe",
+      "type": "tool",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_picaxe"
+    },
+    {
+      "name": "RubyAxe",
+      "type": "tool",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_axe"
+    },
+    {
+      "name": "RubyHoe",
+      "type": "tool",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_hoe"
+    },
+    {
+      "name": "RubyShovel",
+      "type": "tool",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_shovel"
+    },
+    {
+      "name": "RubySwordCraft",
+      "type": "recipe",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_sword_craft"
+    },
+    {
+      "name": "RubypicaxeCraft",
+      "type": "recipe",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rubypicaxe_craft"
+    },
+    {
+      "name": "RubyAxecraft",
+      "type": "recipe",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_axecraft"
+    },
+    {
+      "name": "RubyShovelcraft",
+      "type": "recipe",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_shovelcraft"
+    },
+    {
+      "name": "Rubyhoecraft",
+      "type": "recipe",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rubyhoecraft"
+    },
+    {
+      "name": "RubyArmor",
+      "type": "armor",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "EndisiteSwordAttackMobProcedure",
+      "type": "procedure",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "endisite_sword_attack_mob_procedure",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.more_ores.ruby_hoe": "Ruby Hoe",
+      "item.more_ores.end_knight_spawn_egg": "End Knight Spawn Egg",
+      "item.more_ores.endisite_hoe": "Endisite Hoe",
+      "item.more_ores.ruby": "Ruby",
+      "item.more_ores.endisite_armor_helmet": "Endisite  Helmet",
+      "item.more_ores.ruby_axe": "Ruby Axe",
+      "block.more_ores.endiste_block": "Endisite Block",
+      "item.more_ores.ruby_armor_chestplate": "Ruby  Body",
+      "item.more_ores.power_rod": "Power Rod",
+      "item.more_ores.endisiteingot": "Endisite Ingot",
+      "item.more_ores.endisite_axe": "Endsite Axe",
+      "item.more_ores.endisite_armor_leggings": "Endisite  Leggings",
+      "item.more_ores.ruby_armor_helmet": "Ruby  Helmet",
+      "block.more_ores.ruby_block": "Ruby Block",
+      "item.more_ores.ruby_armor_boots": "Ruby Boots",
+      "item.more_ores.endisite_shovel": "Endisite Shovel",
+      "entity.more_ores.end_knight": "End Knight",
+      "item.more_ores.endisite_armor_boots": "Endisite  Boots",
+      "item.more_ores.ruby_sword": "Ruby Sword",
+      "item.more_ores.endisite_picaxe": "Endisite Picaxe",
+      "item.more_ores.ruby_picaxe": "Ruby Picaxe",
+      "item.more_ores.endisite_armor_chestplate": "Endisite Chestplate",
+      "item.more_ores.endisite_sword": "Endisite Sword",
+      "block.more_ores.endisite_ore": "Titanium Ore",
+      "item.more_ores.ruby_shovel": "Ruby Shovel",
+      "item.more_ores.ruby_armor_leggings": "Ruby  Leggings"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "more_ores",
+    "modName": "More ores",
+    "version": "1.0.0",
+    "author": "kafia, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "modElementsPackage": "net.mcreator.moreores",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000547520
+}

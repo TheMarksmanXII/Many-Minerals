@@ -1,0 +1,24 @@
+{
+  "group": "more_ores",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "more_ores:endisiteingot"
+    },
+    "1": {
+      "item": "more_ores:endisiteingot"
+    },
+    "2": {
+      "item": "more_ores:power_rod"
+    }
+  },
+  "result": {
+    "item": "more_ores:endisite_sword",
+    "count": 1
+  }
+}

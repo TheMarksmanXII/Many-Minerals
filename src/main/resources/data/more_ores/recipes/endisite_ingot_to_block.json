@@ -1,0 +1,42 @@
+{
+  "group": "more_ores",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "more_ores:endisiteingot"
+    },
+    "1": {
+      "item": "more_ores:endisiteingot"
+    },
+    "2": {
+      "item": "more_ores:endisiteingot"
+    },
+    "3": {
+      "item": "more_ores:endisiteingot"
+    },
+    "4": {
+      "item": "more_ores:endisiteingot"
+    },
+    "5": {
+      "item": "more_ores:endisiteingot"
+    },
+    "6": {
+      "item": "more_ores:endisiteingot"
+    },
+    "7": {
+      "item": "more_ores:endisiteingot"
+    },
+    "8": {
+      "item": "more_ores:endisiteingot"
+    }
+  },
+  "result": {
+    "item": "more_ores:endiste_block",
+    "count": 1
+  }
+}
